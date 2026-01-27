@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced2a5f9-f90c-4890-8679-37f56480c0c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex002/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex002/testeclasse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex000/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex000/ex000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex001/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex003/ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +34,7 @@
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
     "Python.main.executor": "Run",
     "Python.testeclasse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
