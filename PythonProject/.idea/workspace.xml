@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced2a5f9-f90c-4890-8679-37f56480c0c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/exercicios/ex003/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/rich001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/rich002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +39,14 @@
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.rich001.executor": "Run",
+    "Python.rich002.executor": "Run",
     "Python.testeclasse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/valdenio/Documentos/python3-mundo-4-POO/PythonPOO/exercicios/ex002",
@@ -51,6 +60,32 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../PythonPOO/exercicios" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (PythonProject)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
