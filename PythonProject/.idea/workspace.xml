@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced2a5f9-f90c-4890-8679-37f56480c0c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/ex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/rich001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python3-mundo-4-POO/rich/rich002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ced2a5f9-f90c-4890-8679-37f56480c0c5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
